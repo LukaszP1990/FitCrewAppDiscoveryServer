@@ -1,0 +1,2 @@
+# FitCrewAppDiscoveryServer
+Discovery server
